@@ -1,0 +1,3 @@
+Name: Snowbird
+Age: 30
+Favorite Color: Yellow
