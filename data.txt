@@ -1,4 +1,5 @@
 Name: Snowbird
 Age: 30
-Favorite Color: Yellow
+Favorite Color: Green
 favo drink: cappo met kaneel en sojamelk
+
